@@ -17,8 +17,4 @@ With a high accuracy model, It will be simple to evaluate the existance of exo-p
 
 ### Current Model Accuracy
 
-![Returns](https://github.com/raam6/ML_Prediction_TaLib/blob/main/strategy_goog.png)
-
-### Accuracy Report
-
 ![Accuracy Report](https://github.com/raam6/ExoplanetExplorationML/blob/main/Resource/accuracy.png)
