@@ -3,8 +3,8 @@
 
 ## Description
 
-Using data on light level, we can discover the existence of exoplanets. We train data using what NASA has confirmed (koi_disposition) and 40 indicators 
-Logistic Regression- Machine Learning classification algorithm that is used to predict the probability of a categorical dependant variable. 
+- Using data on light level, we can discover the existence of exoplanets. We train data using what NASA has confirmed (koi_disposition) and 40 indicators 
+- Logistic Regression- Machine Learning classification algorithm that is used to predict the probability of a categorical dependant variable. 
 
 ### Prerequisites
 
